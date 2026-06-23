@@ -1,0 +1,240 @@
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'eslint-visitor-keys@5.0.1',
+npm warn EBADENGINE   required: { node: '^20.19.0 || ^22.13.0 || >=24' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/wallet-standard-features@1.4.0',
+npm warn EBADENGINE   required: { node: '>=22' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@wallet-standard/base@1.1.1',
+npm warn EBADENGINE   required: { node: '>=22' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@wallet-standard/features@1.1.1',
+npm warn EBADENGINE   required: { node: '>=22' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/codecs-numbers@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/codecs-core@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/errors@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/kit@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@noble/curves@2.2.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@noble/hashes@2.2.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@noble/curves@2.2.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@noble/hashes@2.2.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/accounts@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/addresses@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/codecs@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/functional@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/instructions@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/keys@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/programs@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-parsed-types@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-spec-types@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-subscriptions@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-types@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/signers@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/sysvars@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/transaction-confirmation@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/transaction-messages@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/transactions@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/codecs-strings@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-spec@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/assertions@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/nominal-types@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/codecs-data-structures@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/options@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/fast-stable-stringify@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-api@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-transformers@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-transport-http@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/promises@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-subscriptions-api@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-subscriptions-channel-websocket@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/rpc-subscriptions-spec@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@solana/subscribable@2.3.0',
+npm warn EBADENGINE   required: { node: '>=20.18.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'chokidar@5.0.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'readdirp@5.0.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: '@noble/hashes@2.2.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.16.0', npm: '10.8.1' }
+npm warn EBADENGINE }
+npm warn deprecated lodash.isequal@4.5.0: This package is deprecated. Use require('node:util').isDeepStrictEqual instead.
+npm warn deprecated @walletconnect/modal@2.6.2: Please follow the migration guide on https://docs.reown.com/appkit/upgrade/wcm
+npm warn deprecated @motionone/vue@10.16.4: Motion One for Vue is deprecated. Use Oku Motion instead https://oku-ui.com/motion
+npm warn deprecated uuid@8.3.2: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
+npm warn deprecated @walletconnect/sign-client@2.11.2: Reliability and performance improvements. See: https://github.com/WalletConnect/walletconnect-monorepo/releases
